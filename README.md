@@ -1,4 +1,5 @@
-# suckless_DWM
+# sless_DWM
 
 gtk theme -> SolArc-Dark (aur/gtk-theme-solarc-git)
-neofetch... OK
+neofetch            ... OK
+slessthings         ... OK
